@@ -1,6 +1,6 @@
 
 const clientId = '9d0564193e8c4175972b32785a843080';
-const redirectUri = 'https://kittylegacy.github.io/thatJammingProject/';
+const redirectUri = 'https://thatjaming.herokuapp.com/';
  
 let accessToken;
  
